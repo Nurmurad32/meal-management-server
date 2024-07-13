@@ -3,7 +3,7 @@
 Live URL: [https://office-meal-management.web.app](https://office-meal-management.web.app)
 
 Github Client URL: [Github Client](https://github.com/Nurmurad32/office-meal-management-client)
-Github Server URL: [Github Sever](https://office-meal-management.web.app)
+Github Server URL: [Github Sever](https://github.com/Nurmurad32/meal-management-server)
 
 ## Frontend Technology:
 - React
@@ -80,6 +80,7 @@ Github Server URL: [Github Sever](https://office-meal-management.web.app)
     ```bash
     npm install
     ```
+4. connect with your mongodb uri
 
 ## ER Diagram:
 
